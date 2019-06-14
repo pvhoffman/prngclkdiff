@@ -1,7 +1,5 @@
 #include <iostream>
 #include <chrono>
-
-
 /*---------------------------------------------------------------------------*/
 static std::chrono::milliseconds
 millis()
